@@ -10,11 +10,11 @@ Variable Information:
 The target variable being predicted is the loan status, which consists of 18,759 healthy loans and 625 high-risk loans.
 
 Machine Learning Process:  
-Data Preprocessing- Load the dataset into a dataframe and clean the data as necessary.
-Separating the Data into Labels and Features- Create the labels set (y) from the “loan status” column, and create the features set (X) from the remaining columns.
-Splitting Data- Split the dataset into training and testing sets.
-Creating a Logistic Regression Model- Use a logistic regression algorithm to train models on the training data.
-Evaluating Performance- Assess model performance using a confusion matrix, accuracy, precision, recall, and F1-score.
+Data Preprocessing- Load the dataset into a dataframe and clean the data as necessary.  
+Separating the Data into Labels and Features- Create the labels set (y) from the “loan status” column, and create the features set (X) from the remaining columns.  
+Splitting Data- Split the dataset into training and testing sets.  
+Creating a Logistic Regression Model- Use a logistic regression algorithm to train models on the training data.  
+Evaluating Performance- Assess model performance using a confusion matrix, accuracy, precision, recall, and F1-score.  
 
 Method Used:  
 A Logistic Regression Model was employed to predict loan status based on the provided financial features.
