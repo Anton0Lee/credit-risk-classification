@@ -23,16 +23,16 @@ A Logistic Regression Model was employed to predict loan status based on the pro
 
 Machine Learning Model - Logistic Regression  
 
-Accuracy: 0.99
-Precision:
-Class 0 (healthy loans) - 1.00
-Class 1 (high-risk loans) - 0.87
-Recall:
-Class 0 (healthy loans) - 1.00
-Class 1 (high-risk loans) - 0.89
-F1-Score
-Class 0 (healthy loans) - 1.00
-Class 1 (high-risk loans) - 0.88
+Accuracy: 0.99  
+Precision:  
+Class 0 (healthy loans) - 1.00  
+Class 1 (high-risk loans) - 0.87  
+Recall:  
+Class 0 (healthy loans) - 1.00  
+Class 1 (high-risk loans) - 0.89  
+F1-Score  
+Class 0 (healthy loans) - 1.00  
+Class 1 (high-risk loans) - 0.88  
 
 ## Summary
 
